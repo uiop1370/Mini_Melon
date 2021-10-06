@@ -26,7 +26,7 @@ Web URL : http://www.cat-team.duckdns.org/
 
 개발기간 : 2021년 8월 17일 ~ 2021년 8월 23일
 
-GitHub URL : https://github.com/seungsu-lee-dev/MiniMelon
+GitHub URL : https://github.com/uiop1370/MiniMelon
 
 ![슬라이드1](https://user-images.githubusercontent.com/68325847/130473402-ff60b720-17e9-4c27-b4f0-326864440923.PNG)
 
